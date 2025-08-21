@@ -31,3 +31,4 @@ jobs:
           git add karing_sub.txt
           git commit -m "Auto update nodes \$(date)"
           git push
+https://shijiu6609.github.io/karing_sub.txt
